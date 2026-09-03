@@ -60,9 +60,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jadabpanda07-web&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadabpanda07-web&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=jadabpanda07-web&show_icons=true&theme=tokyonight" />
 
 </div>
 
@@ -73,6 +71,8 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=jadabpanda07-web&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadabpanda07-web&layout=compact&theme=tokyonight" />
 
 </div>
 
