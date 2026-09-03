@@ -62,6 +62,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jadabpanda07-web&show_icons=true&theme=tokyonight" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadabpanda07-web&layout=compact&theme=tokyonight" />
+
 </div>
 
 ---
